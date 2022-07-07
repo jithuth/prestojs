@@ -28,7 +28,7 @@
     "axios": "^0.18.0",
     "babel-polyfill": "^6.26.0",
     "cheerio-without-node-native": "^1.0.0-rc.2",
-    "moment": "^2.23.0",
+    "moment": "^2.29.4",
     "qs": "^6.6.0"
   },
   "scripts": {
